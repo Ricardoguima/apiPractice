@@ -1,10 +1,14 @@
 # apiPractice
 
-Put together a single API //
+Put together a single API // *
 
-Create an EC2 instance on AWS //
+Create an EC2 instance on AWS // *
 
-Deploy it there with Docker //
+Create Dockerfile locally //
 
 Configure the reverse proxy
 with NGINX (make it public) //
+
+Connect to EC2 instance //
+
+Deploy it there with Docker //
