@@ -4,7 +4,9 @@ Put together a single API // *
 
 Create an EC2 instance on AWS // *
 
-Create Dockerfile locally //
+Create Dockerfile locally // *
+
+Test Dockerfile loacally // *
 
 Configure the reverse proxy
 with NGINX (make it public) //
