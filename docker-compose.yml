@@ -3,13 +3,11 @@ version: '3.8'
 services:
   app:
     build: .
-    container_name: node-app
     ports:
       - "3000:3000"
 
   nginx:
     image: nginx:latest
-    container_name: nginx-proxy
     ports:
       - "80:80"
     volumes:
